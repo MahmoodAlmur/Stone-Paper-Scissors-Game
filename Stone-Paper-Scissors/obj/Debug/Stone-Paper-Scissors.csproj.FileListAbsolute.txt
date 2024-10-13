@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Projects\Stone-Paper-Scissors\bin\Debug\Stone-Paper-Scissors.exe.config
+C:\Users\User\source\repos\Projects\Stone-Paper-Scissors\bin\Debug\Stone-Paper-Scissors.exe
+C:\Users\User\source\repos\Projects\Stone-Paper-Scissors\bin\Debug\Stone-Paper-Scissors.pdb
+C:\Users\User\source\repos\Projects\Stone-Paper-Scissors\obj\Debug\Stone-Paper-Scissors.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Projects\Stone-Paper-Scissors\obj\Debug\Stone_Paper_Scissors.frmMain.resources
+C:\Users\User\source\repos\Projects\Stone-Paper-Scissors\obj\Debug\Stone_Paper_Scissors.Properties.Resources.resources
+C:\Users\User\source\repos\Projects\Stone-Paper-Scissors\obj\Debug\Stone-Paper-Scissors.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Projects\Stone-Paper-Scissors\obj\Debug\Stone-Paper-Scissors.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Projects\Stone-Paper-Scissors\obj\Debug\Stone-Paper-Scissors.exe
+C:\Users\User\source\repos\Projects\Stone-Paper-Scissors\obj\Debug\Stone-Paper-Scissors.pdb
+C:\Users\User\source\repos\Projects\Stone-Paper-Scissors\obj\Debug\Stone_Paper_Scissors.frmStartGame.resources
